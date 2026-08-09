@@ -1,0 +1,1 @@
+"""InterviewMind AI backend package."""
